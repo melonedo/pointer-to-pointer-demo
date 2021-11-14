@@ -1,0 +1,1 @@
+void print_strings(int len, const char **pstrs);
